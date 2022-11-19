@@ -1,0 +1,9 @@
+BIG-0 : best for time and space complextiy
+
+constant time : always same, ex: fetch using 
+linear time : based on input to operation perform
+logarithmic time: based on splitting single operation in micro functions
+Quadratic time: nested loop condition
+Exponential time: fibanocci number is prime example for this
+
+

@@ -1,0 +1,45 @@
+TOPICS CLASS, OBJECTS ,METHODS && OOPS concepts
+
+CLASS
+SI.NO 1. class keyword
+SI.NO 2. attribute - varibale && behavior - methods
+SI.NO 3. EXAMPLE : class Employee
+
+OBJECTS 
+SI.NO 1. Instance of the class
+SI.NO 2. We can call methods from by creatinf object.
+SI.NO 3. EXAMPLE : obj = new classname()
+             obj("input1", "input2", ...... "inputN")
+             obj.methodName()
+
+POLYMORPHISM
+SI.NO 1. Ability take more than one form 
+SI.NO 2. EXAMPLE "+" is used for concatenation inbetween strings and addtion in between numbers
+
+ENCAPSULATION
+SI.NO 1. Combining data and methods in a single unit
+SI.NO 2. EXAMPLE : classes
+
+ABSTRACTION
+SI.NO 1. Ability to hide implementation
+SI.NO 2. Abstract class can be implemented by importing ABC, @annotation
+SI.NO 3. Abstract methods can be accessed by implementing child classes
+
+INHERITANCE
+SI.NO 1.Ability to acces parent class using child classes
+SI.NO 2.Parent class doesn't affected by child classes
+SI.NO 2. single, multiple, mnultilevel, hirarchial and hybrid inheritances
+
+
+
+IMPORTANT
+SI.NO 1. self._A means : protected member of the class
+SI.NO 2.__.self._A means : private member of the class
+SI.NO 3.also we can access private and protected members by "_class__identifier"
+SI.NO 4."__new__" method called when an object in created and "__init__" method will be caled when initialize the object
+
+
+
+
+METHOD OVERLOADING and OVERRIDING and CONSTRCTORs
+
