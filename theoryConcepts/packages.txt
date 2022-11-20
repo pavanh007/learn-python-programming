@@ -1,0 +1,58 @@
+TOPICS
+PACKAGES: Directory of folder
+MODULE: file ro document
+
+NOTE :PKG USAGE :
+PIP: python package manager
+PyPI:python indexing
+
+NOTE :USE CASES:
+
+SI.NO 1.Data science : 
+
+NOTE : 
+Pandas - python data analysis Tool
+Advantages : 
+Reading CSV files
+Reading JSON objects
+
+NumPy - Numerical python analysis
+Advantages :
+Signal processing
+Image processing 
+Statostical computing
+Quantum computing
+
+matplotlib - mathematical operation
+Advantages :
+graphical representation
+
+SI.NO 2.Machine learing, Deep learning and AI : TensorFlow, Pytorch, Keras, SCipy, Scikit-learn, Theano
+SI.NO 4. webframework : flask(micro-framework) and Django(full-stcak), cheery pie, pyramid, beautiful soup and selenium
+SI.NO 4. Automation
+SI.NO 5. Hardware interfacing
+SI.NO 6. Application development
+SI.NO 7. Web and GUI development
+
+NOTE :BUILT-IN PKG :
+
+OS, SYS, CSV, JSON, importlib, re, math, intertools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
